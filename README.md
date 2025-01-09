@@ -9,7 +9,7 @@
 <div align="center">
   
 <br/>![Codewars](https://www.codewars.com/users/thesckurtt/badges/large)<br/>
-![thesckurtt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesckurtt&theme=dracula&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=thesckurtt&theme=dracula)](https://git.io/streak-stats)
   
 </div>
 
