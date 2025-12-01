@@ -16,7 +16,8 @@
 
 ## 🎯 Sobre Mim
 
-Sou o Mailan Franco, um desenvolvedor full stack com mais de 6 anos de estrada criando sistemas que realmente funcionam — rápido, seguro e bonito. Já trabalhei com startups, agências e projetos próprios, entregando valor de verdade através do código.
+Sou o Mailan Franco, desenvolvedor full stack com mais de 6 anos de experiência construindo produtos digitais eficientes, escaláveis e orientados a resultado. 
+Atuo em startups, agências e projetos próprios, sempre transformando ideias em soluções que geram impacto imediato para o cliente.
 
 - 🔧 Especialista em **PHP, Laravel, JavaScript, React e Node.js**
 - 🚀 Experiência com **sistemas de reservas, dashboards e APIs REST**
